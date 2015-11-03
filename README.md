@@ -1,14 +1,22 @@
-# ¸öÈË²©¿Í-¼ÇÂ¼Àú³Ì
+# ä¸ªäººåšå®¢-è®°å½•å†ç¨‹
 
-> ÎÒÖ÷ÕÅ¶à¿´¶àÑ§£¬È»ºó¶¯ÊÖÈ¥×ö£¬½á¹û×ÔÈ»²»»áÌ«»µ
+> æˆ‘ä¸»å¼ å¤šçœ‹å¤šå­¦ï¼Œç„¶ååŠ¨æ‰‹å»åšï¼Œç»“æœè‡ªç„¶ä¸ä¼šå¤ªå
 
 Content List
 
-* Ç°¶Ë¹¤³ÌÏµÁĞ
-    * [±àÂë¹æ·¶](https://github.com/peachlemon/blog/issues/1)
-    * [ÏîÄ¿¹æ·¶](https://github.com/peachlemon/blog/issues/2)
-
+* å‰ç«¯å·¥ç¨‹ç³»åˆ—
+    * [ç¼–ç è§„èŒƒ](https://github.com/peachlemon/blog/issues/1)
+    * [é¡¹ç›®æ­å»º](https://github.com/peachlemon/blog/issues/2)
+   
+* å‰ç«¯æ¡†æ¶ç³»åˆ—
+    * [Angularjs]()
+    * [React]()
+   
+* å‰ç«¯å·¥å…·ç³»åˆ—
+    * [Adobe photoshop cc 2015 ç ´è§£ mac & windows]()
+    * [node pm2]()  
+   
 * CCMS
-    * [ÖØ¹¹µÄÂ·Í¾](https://github.com/peachlemon/blog/issues/3)
+    * [é‡æ„çš„è·¯é€”](https://github.com/peachlemon/blog/issues/3)
 
 
