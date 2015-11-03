@@ -6,7 +6,8 @@ Content List
 
 * 前端工程系列
     * [编码规范](https://github.com/peachlemon/blog/issues/1)
-    * [项目搭建](https://github.com/peachlemon/blog/issues/2)
+    * [项目搭建]()
+    * [Http response status list](https://github.com/peachlemon/blog/issues/3)
    
 * 前端框架系列
     * [Angularjs]()
