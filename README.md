@@ -13,7 +13,7 @@ Content List
     * [React]()
    
 * 前端工具系列
-    * [Adobe photoshop cc 2015 破解 mac & windows]()
+    * [Adobe photoshop cc 2015 破解 mac & windows](https://github.com/peachlemon/blog/issues/2)
     * [node pm2]()  
    
 * CCMS
