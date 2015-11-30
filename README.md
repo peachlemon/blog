@@ -17,6 +17,9 @@ Content List
     * [Adobe photoshop cc 2015 破解 mac & windows](https://github.com/peachlemon/blog/issues/2)
     * [node pm2]()  
    
+* 其他工具  
+	* [iTerm设置保存SSH](https://github.com/peachlemon/blog/issues/4)
+	* [Xshell快速访问服务器](https://github.com/peachlemon/blog/issues/2)
 * CCMS
     * [重构的路途](https://github.com/peachlemon/blog/issues/3)
 
