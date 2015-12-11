@@ -18,11 +18,11 @@ Content List
     * [node pm2]()  
     
 * web性能优化
-    * [前端性能优化方案](https://github.com/peachlemon/blog/issues/5)  
+    * [前端性能优化方案](https://github.com/peachlemon/blog/issues/6)  
     
 * 其他工具  
 	* [iTerm设置保存SSH](https://github.com/peachlemon/blog/issues/4)
-	* [Xshell快速访问服务器](https://github.com/peachlemon/blog/issues/2)  
+	* [Xshell快速访问服务器](https://github.com/peachlemon/blog/issues/5)  
 	
 * CCMS
     * [重构的路途](https://github.com/peachlemon/blog/issues/3)
