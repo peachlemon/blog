@@ -19,10 +19,10 @@ Content List
    
 * 其他工具  
 	* [iTerm设置保存SSH](https://github.com/peachlemon/blog/issues/4)
-	* [Xshell快速访问服务器](https://github.com/peachlemon/blog/issues/2)
+	* [Xshell快速访问服务器](https://github.com/peachlemon/blog/issues/5)
 	
 * Node.js
-	* [node-sass安装问题](https://github.com/peachlemon/blog/issues/5) 
+	* [node-sass安装问题](https://github.com/peachlemon/blog/issues/6) 
 * Mongodb
 * CCMS
     * [重构的路途](https://github.com/peachlemon/blog/issues/3)
