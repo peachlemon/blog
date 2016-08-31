@@ -22,7 +22,7 @@ Content List
 	* [Xshell快速访问服务器](https://github.com/peachlemon/blog/issues/5)
 	
 * Node.js
-	* [node-sass安装问题](https://github.com/peachlemon/blog/issues/6) 
+	* [node-sass安装问题](https://github.com/peachlemon/blog/issues/7) 
 * Mongodb
 * CCMS
     * [重构的路途](https://github.com/peachlemon/blog/issues/3)
